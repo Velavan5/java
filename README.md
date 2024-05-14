@@ -1,3 +1,3 @@
-# java and algorithms
-i am learning algorithms and datastructures with java
+# java
+i am learning  java
 ## i'll will add my java codes here
